@@ -134,12 +134,14 @@ Crack the password of the attached PDF file (My Locked PDF1.pdf) using the Netwo
 
 ## Proof of Execution
 
-All screenshots and evidence files are uploaded in their respective folders:
+### PM1 — Johnny Result
+![PM1 Johnny](PM1-Johnny%20(1).png)
 
-- `W3-PM1-Password-Cracking-JTR/` — PM1 Screenshots
-- `W3-PM2-Password-Cracking-NW-Tools/` — PM2 Screenshots
+### PM2 — Networkwalks Cracker Result
+![PM2 Cracker](PM2-Cracker.png)
 
-Please open the folders above to view the proof of execution.
+### Flag / Verification
+![Flag](Flag.png)
 
 ## Key Learning
 
